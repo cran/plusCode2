@@ -1,0 +1,11 @@
+d9ad5f53ba7743f7f6ee06055afad039 *DESCRIPTION
+a234eb25caed787de440ff132639a0ab *LICENSE
+2471dc49ea05c283d2fa5f3ab020966d *NAMESPACE
+857afb26cdfe9c93c9ccd6b9b79ba582 *R/dependencies.R
+3e1e68e882a45e74b397720d4d75cc7c *R/main.R
+c48ce7e7dbbf24a053ea609b6b42d8e8 *man/checkAndConvert.Rd
+a137feea02b477f5ad0651e97f2ac029 *man/computeLatitudePrecision.Rd
+b8abca6d43f9c4b9f3bf890e73814b4e *man/dealWithDf.Rd
+aa0e437e066235d0c7de86fc00ee8467 *man/genPluscode.Rd
+1211d8c48dec7cfb3abd632e0678df74 *man/normalizeLatitude.Rd
+7a15af76fc6e03516aad3e6ba696383d *man/normalizeLongitude.Rd
